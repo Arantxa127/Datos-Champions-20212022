@@ -1,15 +1,15 @@
-﻿serial,player_name,club,position,goals,right_foot,left_foot,headers,others,inside_area,outside_areas,penalties,match_played
-1,Benzema,Real Madrid,Forward,15,11,1,3,0,13,2,3,12
-2,Lewandowski,Bayern,Forward,13,8,3,1,1,13,0,3,10
-3,Haller,Ajax,Forward,11,3,4,3,1,11,0,1,8
-4,Salah,Liverpool,Forward,8,0,8,0,0,7,1,1,13
-5,Nkunku,Leipzig,Midfielder,7,3,1,3,0,7,0,0,6
-5,Mahrez,Man. City,Midfielder,7,1,4,2,0,7,0,2,12
-7,Mbappé,Paris,Forward,6,6,0,0,0,6,0,0,8
-7,Núñez,Benfica,Forward,6,5,0,1,0,6,0,1,10
-7,Ronaldo,Man. United,Forward,6,5,0,1,0,4,2,0,7
-7,Danjuma,Villarreal,Midfielder,6,3,3,0,0,6,0,1,11
-7,Sané,Bayern,Midfielder,6,1,5,0,0,3,3,0,10
+serial,player_name,club,position,goals,right_foot,left_foot,headers,others,inside_area,outside_areas,penalties,match_played
+01,Benzema,Real Madrid,Forward,15,11,1,3,0,13,2,3,12
+02,Lewandowski,Bayern,Forward,13,8,3,1,1,13,0,3,10
+03,Haller,Ajax,Forward,11,3,4,3,1,11,0,1,8
+04,Salah,Liverpool,Forward,8,0,8,0,0,7,1,1,13
+05,Nkunku,Leipzig,Midfielder,7,3,1,3,0,7,0,0,6
+05,Mahrez,Man. City,Midfielder,7,1,4,2,0,7,0,2,12
+07,Mbappé,Paris,Forward,6,6,0,0,0,6,0,0,8
+07,Núñez,Benfica,Forward,6,5,0,1,0,6,0,1,10
+07,Ronaldo,Man. United,Forward,6,5,0,1,0,4,2,0,7
+07,Danjuma,Villarreal,Midfielder,6,3,3,0,0,6,0,1,11
+07,Sané,Bayern,Midfielder,6,1,5,0,0,3,3,0,10
 12,Firmino,Liverpool,Midfielder,5,3,1,1,0,4,1,0,6
 12,Mané,Liverpool,Midfielder,5,2,3,0,0,5,0,0,13
 12,Rodrygo,Real Madrid,Forward,5,2,2,1,0,5,0,0,10
@@ -108,7 +108,7 @@
 73,Alexis Sánchez,Inter,Forward,1,1,0,0,0,1,0,0,6
 73,Garmash,Dynamo Kyiv,Midfielder,1,1,0,0,0,1,0,0,6
 73,Piqué,Barcelona,Defender,1,1,0,0,0,1,0,0,5
-73,Rashford,M an. United,Forward,1,1,0,0,0,1,0,0,5
+73,Rashford,Man. United,Forward,1,1,0,0,0,1,0,0,5
 73,Ikoné,LOSC,Midfielder,1,1,0,0,0,1,0,0,5
 73,Tomori,Milan,Defender,1,1,0,0,0,1,0,0,5
 73,Nikolov,Sheriff,Midfielder,1,1,0,0,0,1,0,0,5
@@ -121,14 +121,15 @@
 73,Rieks,Malmö,Midfielder,1,1,0,0,0,1,0,0,3
 73,Vlahović,Juventus,Forward,1,1,0,0,0,1,0,0,2
 73,Rebić,Milan,Forward,1,1,0,0,0,1,0,0,2
-73,Henderson,Liverpool,Midfielder,1,1,0,0,0,0,1,0,10
+73,Henderson,Liverpool,Midfielder,1,1,0,0,0,0,1,0,12
+73,Thiago Alcántara,Liverpool,Midfielder,1,1,0,0,0,0,1,0,10
 73,Keïta,Liverpool,Midfielder,1,1,0,0,0,0,1,0,9
 73,Martínez,Inter,Forward,1,1,0,0,0,0,1,0,8
 73,Rieder,Young Boys,Midfielder,1,1,0,0,0,0,1,0,6
 73,Muriel,Atalanta,Forward,1,1,0,0,0,0,1,0,5
 73,Ozdoev,Zenit,Midfielder,1,1,0,0,0,0,1,0,1
 73,Sučić,Salzburg,Midfielder,1,0,1,0,0,1,0,1,8
-73,Rakitskiy,Zenit,Defender,1,0,1,0,0,1,0,1,6
+73,Rakitskyy,Zenit,Defender,1,0,1,0,0,1,0,1,6
 73,Ghezzal,Beşiktaş,Midfielder,1,0,1,0,0,1,0,1,5
 73,Parejo,Villarreal,Midfielder,1,0,1,0,0,1,0,0,12
 73,Ziyech,Chelsea,Midfielder,1,0,1,0,0,1,0,0,9
