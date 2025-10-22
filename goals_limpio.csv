@@ -123,7 +123,7 @@ serial,player_name,club,position,goals,right_foot,left_foot,headers,others,insid
 73,Rebić,Milan,Forward,1,1,0,0,0,1,0,0,2
 73,Henderson,Liverpool,Midfielder,1,1,0,0,0,0,1,0,12
 73,Thiago Alcántara,Liverpool,Midfielder,1,1,0,0,0,0,1,0,10
-73,Keïta,Liverpool,Midfielder,1,1,0,0,0,0,1,0,9
+73,Keïta,Liverpool,Midfielder,1,1,0,0,0,0,1,0,10
 73,Martínez,Inter,Forward,1,1,0,0,0,0,1,0,8
 73,Rieder,Young Boys,Midfielder,1,1,0,0,0,0,1,0,6
 73,Muriel,Atalanta,Forward,1,1,0,0,0,0,1,0,5
@@ -182,3 +182,4 @@ serial,player_name,club,position,goals,right_foot,left_foot,headers,others,insid
 73,Messias Junior,Milan,Forward,1,0,0,1,0,1,0,0,2
 73,Morato,Benfica,Defender,1,0,0,1,0,1,0,0,2
 73,Pedro Porro,Sporting CP,Defender,1,0,0,0,1,1,0,0,7
+
