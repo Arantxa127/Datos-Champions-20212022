@@ -12,7 +12,7 @@ serial,player_name,club,position,goals,right_foot,left_foot,headers,others,insid
 07,Sané,Bayern,Midfielder,6,1,5,0,0,3,3,0,10
 12,Firmino,Liverpool,Midfielder,5,3,1,1,0,4,1,0,6
 12,Mané,Liverpool,Midfielder,5,2,3,0,0,5,0,0,13
-12,Rodrygo,Real Madrid,Forward,5,2,2,1,0,5,0,0,10
+12,Rodrygo,Real Madrid,Forward,5,2,2,1,0,5,0,0,11
 12,Messi,Paris,Forward,5,0,5,0,0,3,2,2,7
 16,Jesus,Man. City,Forward,4,4,0,0,0,4,0,0,8
 16,Werner,Chelsea,Forward,4,4,0,0,0,4,0,0,5
@@ -182,4 +182,5 @@ serial,player_name,club,position,goals,right_foot,left_foot,headers,others,insid
 73,Messias Junior,Milan,Forward,1,0,0,1,0,1,0,0,2
 73,Morato,Benfica,Defender,1,0,0,1,0,1,0,0,2
 73,Pedro Porro,Sporting CP,Defender,1,0,0,0,1,1,0,0,7
+
 
